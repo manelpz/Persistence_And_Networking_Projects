@@ -29,9 +29,12 @@ class ViewController: UIViewController {
     }
     
 
-    @IBAction func updateButtonAction(sender: AnyObject) {
+    @IBAction func updateButtonAction(_ sender: Any) {
         self.updateDateLabel()
     }
+    /*@IBAction func updateButtonAction(sender: AnyObject) {
+       // self.updateDateLabel()
+    }*/
     
 }
 
