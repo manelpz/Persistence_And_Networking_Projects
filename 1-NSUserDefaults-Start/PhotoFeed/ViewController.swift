@@ -30,7 +30,7 @@ class ViewController: UIViewController {
     
 
     @IBAction func updateButtonAction(sender: AnyObject) {
-
+        self.updateDateLabel()
     }
     
 }
