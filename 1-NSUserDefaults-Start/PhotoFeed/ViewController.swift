@@ -24,7 +24,9 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    func updateDateLabel(){}
+    func updateDateLabel(){
+        self.dateLabel.text = NSDate().description
+    }
     
 
     @IBAction func updateButtonAction(sender: AnyObject) {
