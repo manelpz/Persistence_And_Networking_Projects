@@ -24,7 +24,8 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    func updateDateLabel(){}
+    
 
     @IBAction func updateButtonAction(sender: AnyObject) {
 

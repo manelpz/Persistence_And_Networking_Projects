@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9EEE9395-F491-4784-88AF-D007D1558C76"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47AA0DB5-32E8-42FD-8732-E099D88914FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoFeed/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "47AA0DB5-32E8-42FD-8732-E099D88914FD - 95f2c21f9833a390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoFeed.AppDelegate.window.getter : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "PhotoFeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Home/GitHub/Persistence_And_Networking_Projects/1-NSUserDefaults-Start/PhotoFeed/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "47AA0DB5-32E8-42FD-8732-E099D88914FD - 1d13309594603054"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoFeed.AppDelegate.window.setter : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "PhotoFeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Home/GitHub/Persistence_And_Networking_Projects/1-NSUserDefaults-Start/PhotoFeed/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "47AA0DB5-32E8-42FD-8732-E099D88914FD - 174332b94a477f9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoFeed.AppDelegate.window.modify : Swift.Optional&lt;__C.UIWindow&gt;"
+                  moduleName = "PhotoFeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Home/GitHub/Persistence_And_Networking_Projects/1-NSUserDefaults-Start/PhotoFeed/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "47AA0DB5-32E8-42FD-8732-E099D88914FD - 2cb5e628fbb6c4e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoFeed.AppDelegate.window.modify : Swift.Optional&lt;__C.UIWindow&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PhotoFeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Home/GitHub/Persistence_And_Networking_Projects/1-NSUserDefaults-Start/PhotoFeed/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "47AA0DB5-32E8-42FD-8732-E099D88914FD - 528ce183ddd3279c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoFeed.AppDelegate.init() -&gt; PhotoFeed.AppDelegate"
+                  moduleName = "PhotoFeed"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Home/GitHub/Persistence_And_Networking_Projects/1-NSUserDefaults-Start/PhotoFeed/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
