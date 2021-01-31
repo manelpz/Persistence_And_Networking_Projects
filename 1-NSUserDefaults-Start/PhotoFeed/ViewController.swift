@@ -39,6 +39,7 @@ class ViewController: UIViewController {
     
 
     @IBAction func updateButtonAction(_ sender: Any) {
+        //save values in UserDefaults
         let now = NSDate()
         UserDefaults.standard.set(now, forKey:"buttonTapped")
         self.updateDateLabel()
