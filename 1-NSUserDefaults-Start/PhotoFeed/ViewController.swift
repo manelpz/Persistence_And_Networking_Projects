@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         let lastUpdate =
             UserDefaults.standard.object(forKey: "buttonTapped") as? NSDate
         if let hasLastUpdate = lastUpdate{
+            //add values to the label
             self.dateLabel.text = hasLastUpdate.description
         }else{
             self.dateLabel.text = "No date saved."
