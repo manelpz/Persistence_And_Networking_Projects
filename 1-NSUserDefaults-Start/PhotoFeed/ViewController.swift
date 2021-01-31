@@ -45,9 +45,6 @@ class ViewController: UIViewController {
         self.updateDateLabel()
         
     }
-    /*@IBAction func updateButtonAction(sender: AnyObject) {
-       // self.updateDateLabel()
-    }*/
-    
+
 }
 
