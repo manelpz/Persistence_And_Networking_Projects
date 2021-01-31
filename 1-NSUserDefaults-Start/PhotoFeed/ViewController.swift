@@ -25,7 +25,12 @@ class ViewController: UIViewController {
     }
 
     func updateDateLabel(){
-        self.dateLabel.text = NSDate().description
+        let lastUpdate =
+            UserDefaults.standard.object(forKey: "buttonTapped") as? NSDate
+        if let hasLastUpdate = lastUpdate{
+            self.dateLabel.text = hasLastUpdate.description
+        }
+        
     }
     
 
