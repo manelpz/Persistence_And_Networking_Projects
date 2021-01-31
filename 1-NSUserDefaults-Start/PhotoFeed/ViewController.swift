@@ -31,6 +31,7 @@ class ViewController: UIViewController {
             //add values to the label
             self.dateLabel.text = hasLastUpdate.description
         }else{
+            //add values to the label
             self.dateLabel.text = "No date saved."
         }
         
