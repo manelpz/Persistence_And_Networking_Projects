@@ -18,9 +18,13 @@
 			<key>Title</key>
 			<string>Search Tag</string>
 			<key>Key</key>
-			<string></string>
+			<string>PhotoURLString</string>
 			<key>DefaultValue</key>
 			<string></string>
+			<key>Titles</key>
+			<array>
+				<string>Kittens</string>
+			</array>
 		</dict>
 	</array>
 </dict>
