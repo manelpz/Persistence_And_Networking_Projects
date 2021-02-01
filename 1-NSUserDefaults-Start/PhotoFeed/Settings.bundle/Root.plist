@@ -20,7 +20,7 @@
 			<key>Key</key>
 			<string>PhotoURLString</string>
 			<key>DefaultValue</key>
-			<string></string>
+			<string>Https://api.flickr.com/services/feeds/photos_public.gne?tags=kitten&amp;format=json&amp;nojsoncallback=1</string>
 			<key>Titles</key>
 			<array>
 				<string>Kittens</string>
@@ -32,7 +32,9 @@
 			<key>item 1</key>
 			<string>Https://api.flickr.com/services/feeds/photos_public.gne?tags=kitten&amp;format=json&amp;nojsoncallback=1</string>
 			<key>item 2</key>
-			<string>Https://api.flickr.com/services/feeds/photos_public.gne?tags=pugd&amp;format=json&amp;nojsoncallback=1</string>
+			<string>Https://api.flickr.com/services/feeds/photos_public.gne?tags=pugs&amp;format=json&amp;nojsoncallback=1</string>
+			<key>item 3</key>
+			<string>Https://api.flickr.com/services/feeds/photos_public.gne?tags=pizza&amp;format=json&amp;nojsoncallback=1</string>
 		</dict>
 	</array>
 </dict>
