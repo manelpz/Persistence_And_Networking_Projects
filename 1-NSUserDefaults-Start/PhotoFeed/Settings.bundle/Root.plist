@@ -12,6 +12,16 @@
 			<key>Title</key>
 			<string>Group</string>
 		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>Title</key>
+			<string>Search Tag</string>
+			<key>Key</key>
+			<string></string>
+			<key>DefaultValue</key>
+			<string></string>
+		</dict>
 	</array>
 </dict>
 </plist>
