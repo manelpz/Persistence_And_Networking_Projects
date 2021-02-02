@@ -37,6 +37,12 @@ class ViewController: UIViewController {
         
     }
     
+    func ApplicationDidBecomeActive(application: UIApplication){
+        let urlString = UserDefaults.standard.string(forKey: "PhotoFeedURLString")
+        print(urlString as Any)
+        
+    }
+    
 
     @IBAction func updateButtonAction(_ sender: Any) {
         //save values in UserDefaults
