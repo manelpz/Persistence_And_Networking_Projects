@@ -43,7 +43,6 @@ class ViewController: UIViewController {
         
     }
     
-//adding comments
     @IBAction func updateButtonAction(_ sender: Any) {
         //save values in UserDefaults
         let now = NSDate()
